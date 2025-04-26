@@ -93,8 +93,8 @@ This structure ensures that individual modules can be independently developed an
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/automatesolutions/WebSocket_HFT.git
-cd Websocket_HFT
+https://github.com/dhanushba/GoQuant_Order_System.git
+cd GoQuant_Order_System
 ```
 ### 2. Install dependencies:
 -Install Boost Library
